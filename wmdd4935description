@@ -1,0 +1,23 @@
+WMDD 4935
+Final Project
+Group members: Akshita Bhandari(github.com/akshu11)
+harsimrat kaur(github.com/harsimrat26)
+
+DESCRIPTION ABOUT THE PROJECT;
+
+Our project name is virsa fashions database management.We have created a webpage for custom tailoring named virsa fashions by using HTML/CSS,jquery and bootstrap as a frontend 
+platform and python and MYsql is the backend.In this we will be creating two forms Sign up and Give A Gift which will keep the record of our customers who signed up and purchased 
+the gift for the person.In client sign up form there are four fields in which we can track information about the client's registering to our website.Client Sign up form form includes:
+Name, Email,Password and Confirm password fields.In addition in our Give A Gift form there are only two text fields i.e. Nme and Email.Moreover, we also have a payment field through 
+which a person can do online transactions which comprises of Card type, Card number,CVV, Expiry month and year.
+
+LANGUAGES USED AND HOW;
+
+Python anyhwere is open source software framework and online integrated development environment.Furthermore, it is web hosting service based on python programming language.Mysql is 
+the place where our website database is getting stored with the fields.We have set our table name as details table and command used to see the data stored Select*from details.
+Flask app.py in files option, we can view our site in which we have flask_app.py.We have used GET and POST methods to render the data.In GET method: It is request method which is 
+designed to retrieve information from the server.In POST method: it is a request  method which requests that a web server accepts and stores the data
+enclosed in the body of the request message.HTML and CSS access is through an option in FILES>mysite>tenplates where html and css files are uploaded.
+
+
+
